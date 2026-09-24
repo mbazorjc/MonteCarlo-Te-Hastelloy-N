@@ -1,0 +1,7 @@
+quantity,MACE_eV,DFT_eV
+E_seg(Te,Sigma5),-1.513,-2.399
+E_bind(Te-Cr),-0.032,-0.131
+E_bind(Te-Mo),-0.058,-0.044
+E_seg(Te,surface),-2.405,-3.249
+E_seg(Fe,Sigma5),-0.036,-0.102
+E_bind(Te-Fe),-0.190,-0.013
